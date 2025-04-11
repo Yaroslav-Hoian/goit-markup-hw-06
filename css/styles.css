@@ -1104,6 +1104,7 @@ img {
 
     .portfolio-section-item {
         width: calc((100% - 48px) / 3);
+        box-shadow: none;
         transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
 
